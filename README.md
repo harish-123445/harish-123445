@@ -7,7 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate data science student exploring the vast realm of data. My journey involves unraveling insights, building predictive models, and crafting stories from numbers
 
 * 🌍  I'm based in Coimbatore
-* 🖥️  See my portfolio at [Notion](http://www.notion.so/Getting-Started-4204375da33a48db9ab3d08945df179d?pvs=4)
 * ✉️  You can contact me at [harish2004hari@gmail.com](mailto:harish2004hari@gmail.com)
 * 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on Interesting Data Analysis and ML projects
